@@ -1,6 +1,6 @@
 pragma solidity >=0.6.2;
 
-import './IApeRouter01.sol';
+import 'https://github.com/JonGoldd/apeswap-swap-periphery/blob/master/contracts/interfaces/IApeRouter01.sol';
 
 interface IApeRouter02 is IApeRouter01 {
     function removeLiquidityETHSupportingFeeOnTransferTokens(
