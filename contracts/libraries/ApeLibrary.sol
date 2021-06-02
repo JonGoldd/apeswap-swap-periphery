@@ -30,7 +30,7 @@ library ApeLibrary {
                 hex'ff',
                 factory,
                 keccak256(abi.encodePacked(token0, token1)),
-                hex'f4ccce374816856d11f00e4069e7cada164065686fbef53c6167a63ec2fd8c5b' // init code hash
+                hex'0xfdf6e0a1b7b274df9cafb6e7cccc6a84d6b37b16fbffc2b1835f31eb79c322e1' // init code hash
             ))));
     }
 
